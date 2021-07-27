@@ -89,5 +89,6 @@ let meshResult = CSG.toMesh( bspResult, meshA.matrix, meshA.material )
 
 # ALSO
 
-https://github.com/sermonis/three-csg
+https://github.com/sermonis/three-csg  
+https://github.com/sermonis/three-csg-experimental
 
